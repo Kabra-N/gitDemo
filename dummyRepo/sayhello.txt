@@ -1,0 +1,4 @@
+REM A typical script to say Hello!!!!!
+
+echo "Hello everyone!!"
+exit
