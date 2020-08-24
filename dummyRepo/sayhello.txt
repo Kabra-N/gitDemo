@@ -26,11 +26,11 @@ REM Printing time in HHMMSS format
 set ttime=%time:~0,2%%time:~3,2%%time:~6,2%
 echo "Time is set as : %ttime%"
 
-echo "Changed files are: %teamcity.build.changedFiles.file%
+echo Changed files are: %teamcity.build.changedFiles.file%
 
-echo %Checkout Directory is: %teamcity.build.checkoutDir%
+echo Checkout Directory is: %teamcity.build.checkoutDir%
 
-echo %Working Directory is: %teamcity.build.workingDir%
+echo Working Directory is: %teamcity.build.workingDir%
 
 
 exit
