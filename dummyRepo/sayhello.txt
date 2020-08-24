@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 REM A typical script to say Hello!!!!!
 
 echo "Hello everyone!!"
@@ -11,4 +12,25 @@ REM Printing time in HHMMSS format
 set ttime=%time:~0,2%%time:~3,2%%time:~6,2%
 echo "Time is set as : %ttime%"
 
+=======
+REM A typical script to say Hello!!!!!
+
+echo "Hello everyone!!"
+
+REM Printing date in DD/MM/YYYY format
+
+set ddate=%date:~4,2%/%date:~7,2%/%date:~10,4%
+echo "Date is set as : %ddate%"
+
+REM Printing time in HHMMSS format
+set ttime=%time:~0,2%%time:~3,2%%time:~6,2%
+echo "Time is set as : %ttime%"
+
+echo "Changed files are: %teamcity.build.changedFiles.file%
+
+echo %Checkout Directory is: %teamcity.build.checkoutDir%
+
+echo %Working Directory is: %teamcity.build.workingDir%
+
+>>>>>>> develop
 exit
