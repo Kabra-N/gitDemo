@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 REM A typical script to say Hello!!!!!
 
 echo "Hello everyone!!"
@@ -32,5 +32,5 @@ echo %Checkout Directory is: %teamcity.build.checkoutDir%
 
 echo %Working Directory is: %teamcity.build.workingDir%
 
->>>>>>> develop
+
 exit
