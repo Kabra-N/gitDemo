@@ -35,3 +35,4 @@ echo Checkout Directory is: %system.checkoutdir%
 echo Working Directory is: %system.workingdir%
 echo Damn TeamCity
 echo Just another line
+echo adding one more line
