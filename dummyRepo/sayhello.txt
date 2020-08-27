@@ -33,5 +33,5 @@ echo Changed files are: %system.changedfiles%
 echo Checkout Directory is: %system.checkoutdir%
 
 echo Working Directory is: %system.workingdir%
-echo What the hell
+echo Something to change again
 exit
