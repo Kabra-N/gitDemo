@@ -34,4 +34,4 @@ echo Checkout Directory is: %system.checkoutdir%
 
 echo Working Directory is: %system.workingdir%
 echo Damn TeamCity
-exit
+echo Just another line
