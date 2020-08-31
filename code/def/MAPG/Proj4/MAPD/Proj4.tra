@@ -1,21 +1,2 @@
-Adding new lines into this Project file.  PowerShell Executable: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
-10:26:13
-  Working directory: C:\Program Files\TeamCity\buildAgent\work\87f08dab97a9d8c6
-10:26:13
-  Command: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
-10:26:13
-  PowerShell arguments: -NoProfile, -NonInteractive, -ExecutionPolicy, ByPass, -File, C:\Program Files\TeamCity\buildAgent\temp\buildTmp\powershell7512463564642626442.ps1
-10:26:15
-  Get-Content : A positional parameter cannot be found that accepts argument 
-10:26:15
-  'Files\TeamCity\buildAgent\temp\buildTmp\changedFiles8602378867380852014.txt'.
-10:26:15
-  At C:\Program Files\TeamCity\buildAgent\temp\buildTmp\powershell7512463564642626442.ps1:1 char:15
-10:26:15
-  + ... hangedFiles=Get-Content -Path C:\Program Files\TeamCity\buildAgent\te ...
-10:26:15
-  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-10:26:15
-      + CategoryInfo          : InvalidArgument: (:) [Get-Content], ParameterBindingException
-10:26:15
-      + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+code/def/MAPG/Proj4/MAPD/Proj4.tra:CHANGED:892b69f5c09384387fee03a47162b18cc72cdaa8
+Another changed file
